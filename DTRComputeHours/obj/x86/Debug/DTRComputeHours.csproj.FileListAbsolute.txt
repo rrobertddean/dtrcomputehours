@@ -1,0 +1,8 @@
+c:\users\rpantino\documents\visual studio 2010\Projects\DTRComputeHours\DTRComputeHours\bin\Debug\DTRComputeHours.exe
+c:\users\rpantino\documents\visual studio 2010\Projects\DTRComputeHours\DTRComputeHours\bin\Debug\DTRComputeHours.pdb
+c:\users\rpantino\documents\visual studio 2010\Projects\DTRComputeHours\DTRComputeHours\obj\x86\Debug\DTRComputeHours.Properties.Resources.resources
+c:\users\rpantino\documents\visual studio 2010\Projects\DTRComputeHours\DTRComputeHours\obj\x86\Debug\DTRComputeHours.csproj.GenerateResource.Cache
+c:\users\rpantino\documents\visual studio 2010\Projects\DTRComputeHours\DTRComputeHours\obj\x86\Debug\DTRComputeHours.exe
+c:\users\rpantino\documents\visual studio 2010\Projects\DTRComputeHours\DTRComputeHours\obj\x86\Debug\DTRComputeHours.pdb
+C:\Users\RPantino\documents\visual studio 2010\Projects\DTRComputeHours\DTRComputeHours\obj\x86\Debug\DTRComputeHours.csprojResolveAssemblyReference.cache
+C:\Users\RPantino\documents\visual studio 2010\Projects\DTRComputeHours\DTRComputeHours\obj\x86\Debug\DTRComputeHours.frmMain.resources
