@@ -1394,7 +1394,8 @@ namespace DTRComputeHours
             ListViewItem lvSummaryData = new ListViewItem();
 
 
-            lvSummaryData.Text = lblOutlet.Text + " - " + lblName.Text;
+            lvSummaryData.Text = lblOutlet.Text;
+            lvSummaryData.SubItems.Add(lblName.Text);
             lvSummaryData.SubItems.Add(days.ToString());
             lvSummaryData.SubItems.Add(totalminutes.ToString());
             lvSummaryData.SubItems.Add(overtime.ToString());

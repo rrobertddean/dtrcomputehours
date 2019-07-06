@@ -158,6 +158,7 @@
             this.cmbBreakPMDay6 = new System.Windows.Forms.ComboBox();
             this.cmbBreakAMDay7 = new System.Windows.Forms.ComboBox();
             this.cmbBreakPMDay7 = new System.Windows.Forms.ComboBox();
+            this.outlet = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -815,6 +816,7 @@
             // lvSummary
             // 
             this.lvSummary.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.outlet,
             this.ename,
             this.days,
             this.totalminutes,
@@ -835,7 +837,7 @@
             // ename
             // 
             this.ename.Text = "Name";
-            this.ename.Width = 250;
+            this.ename.Width = 200;
             // 
             // days
             // 
@@ -1327,6 +1329,11 @@
             this.cmbBreakPMDay7.Size = new System.Drawing.Size(75, 21);
             this.cmbBreakPMDay7.TabIndex = 112;
             // 
+            // outlet
+            // 
+            this.outlet.Text = "Outlet";
+            this.outlet.Width = 150;
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1578,6 +1585,7 @@
         private System.Windows.Forms.ComboBox cmbBreakPMDay6;
         private System.Windows.Forms.ComboBox cmbBreakAMDay7;
         private System.Windows.Forms.ComboBox cmbBreakPMDay7;
+        private System.Windows.Forms.ColumnHeader outlet;
     }
 }
 
